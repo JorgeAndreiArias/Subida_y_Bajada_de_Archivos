@@ -1,0 +1,6 @@
+C:\Users\Luis\source\repos\Mtom\Mtom2018\bin\Debug\Mtom2018.dll.config
+C:\Users\Luis\source\repos\Mtom\Mtom2018\bin\Debug\Mtom2018.dll
+C:\Users\Luis\source\repos\Mtom\Mtom2018\bin\Debug\Mtom2018.pdb
+C:\Users\Luis\source\repos\Mtom\Mtom2018\obj\Debug\Mtom2018.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Mtom\Mtom2018\obj\Debug\Mtom2018.dll
+C:\Users\Luis\source\repos\Mtom\Mtom2018\obj\Debug\Mtom2018.pdb
